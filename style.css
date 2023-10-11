@@ -1,0 +1,10 @@
+.{
+margin: 0;
+}
+div{
+  background-color: cornflowerblue;
+  height:2x;
+  margin-top: 5px;
+  text-align: center;
+  border: 2px solid #0000; 
+}
